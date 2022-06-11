@@ -14,7 +14,7 @@ will help you to create requirements.txt from python projects as easy and fast
 <code>matplotlib-inline==0.1.3</code><br>
 <code>pandas==1.4.2</code><br>
 <code>seaborn==0.11.2</code><br>
-<code>tensorflow-io-gcs-filesystem==0.26.0</code><br>
+<code>tensorflow-io-gcs-filesystem==0.26.0</code><br><br>
  
  
 <code>./gellany_freeze_bash_folder.sh /home/go/gellany_django</code><br>
