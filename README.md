@@ -8,12 +8,12 @@ will help you to create requirements.txt from python projects as easy and fast
 #example of run to create requirements.txt from gellany_plots.py
 <code>./gellany_freeze_bash.sh gellany_plots.py</code><br>
 <code>ls</code><br>
-<code>requirements.txt<br>
-<code>nano requirements.txt<code><br>
- matplotlib==3.5.2
-matplotlib-inline==0.1.3
-pandas==1.4.2
-seaborn==0.11.2
+<code>requirements.txt</code><br>
+<code>nano requirements.txt</code><br>
+ matplotlib==3.5.2</code><br>
+matplotlib-inline==0.1.3</code><br>
+pandas==1.4.2</code><br>
+seaborn==0.11.2</code><br>
 tensorflow-io-gcs-filesystem==0.26.0</code><br>
  
  
