@@ -15,3 +15,13 @@ matplotlib-inline==0.1.3
 pandas==1.4.2
 seaborn==0.11.2
 tensorflow-io-gcs-filesystem==0.26.0</code><br>
+ 
+ 
+<code>./gellany_freeze_bash_folder.sh /home/go/gellany_django</code><br>
+<code>ERROR: Could not find a version that satisfies the requirement freez (from versions: none)</code><br>
+<code>ERROR: No matching distribution found for freez</code><br>
+<code>WARNING: There was an error checking the latest version of pip.</code><br>
+<code>importlib-metadata==4.11.3</code><br>
+<code>Django==4.0.5</code><br>
+<code>django-widget-tweaks==1.4.12</code><br>
+
