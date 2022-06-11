@@ -10,11 +10,11 @@ will help you to create requirements.txt from python projects as easy and fast
 <code>ls</code><br>
 <code>requirements.txt</code><br>
 <code>nano requirements.txt</code><br>
- matplotlib==3.5.2</code><br>
-matplotlib-inline==0.1.3</code><br>
-pandas==1.4.2</code><br>
-seaborn==0.11.2</code><br>
-tensorflow-io-gcs-filesystem==0.26.0</code><br>
+<code>matplotlib==3.5.2</code><br>
+<code>matplotlib-inline==0.1.3</code><br>
+<code>pandas==1.4.2</code><br>
+<code>seaborn==0.11.2</code><br>
+<code>tensorflow-io-gcs-filesystem==0.26.0</code><br>
  
  
 <code>./gellany_freeze_bash_folder.sh /home/go/gellany_django</code><br>
